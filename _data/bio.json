@@ -6,7 +6,7 @@
     "email": "mvsadi5@gmail.com",
     "phone": "716-533-0788",
     "website": "https://vmantrip.github.io",
-    "summary": "I graduated with a Masters in Engineering Science from the University at . I expect to graduate in Spring, 2024.",
+    "summary": "I graduated with a Masters in Engineering Science from the University at Buffalo. I graduated in Spring, 2024.",
     "location": { "address": "13904 Rolling Wood Dr", "postalCode": "76040", "city": "Euless", "countryCode": "USA", "region": "Texas" },
     "profiles": [
       { "network": "github", "username": "vmantrip", "url": "https://github.com/vmantrip" },
@@ -45,15 +45,15 @@
   "work": [
    
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Grey Orange",
+      "position": "Technical Support Engineer",
+      "website": "https://www.linkedin.com/company/gogreyorange/posts/?feedView=all",
+      "startDate": "2024-11-10",
+      "endDate": "Present",
+      "summary": "I work in a Supply chain environment to improve supply chain software and ensure order fulfillment",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Troubleshoot software, hardware and networking issues",
+        "Optimize proposed warehouse floor plans to improve logistics and inventory management."
       ]
     }
   ],
@@ -74,7 +74,7 @@
   "awards": [    
     {
       "title": "First place",
-      "date": "2015",
+      "date": "2023",
       "awarder": "University at Buffalo BlackStone Launchpad Competition",
       "summary": "My team won first place for statcitical summary and interpretation of data in 2023."
     }
