@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mantri Aditya",
-    "label": "Student",
+    "label": "Supply Chain Engineer",
     "picture": "https://github.com/vmantrip.png",
     "email": "mvsadi5@gmail.com",
     "phone": "716-533-0788",
     "website": "https://vmantrip.github.io",
-    "summary": "I am a Data Science Graduate in the Department of Engineering Sciences at the University at Buffalo. I currently work as a full-time Supply Chain Engineer at GreyOrange.",
+    "summary": "I am a Data Science Graduate from the Department of SEAS at the University at Buffalo-SUNY. I currently work as a full-time Supply Chain Engineer at GreyOrange.",
     "location": { "address": "13904 Rollingwood Dr", "postalCode": "76040", "city": "Euless", "countryCode": "USA", "region": "Texas" },
     "profiles": [
       { "network": "github", "username": "vmantrip", "url": "http://github.com/vmantrip" },
@@ -100,7 +100,7 @@
   "awards": [    
     {
       "title": "First place",
-      "date": "2015",
+      "date": "2023",
       "awarder": "University at Buffalo Blackstone Launchpad Competition",
       "summary": "My team won first place in 2022 for generating preventive measures for future threats using historic earthquake data."
     }
