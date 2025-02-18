@@ -1,113 +1,108 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mantri Aditya",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/vmantrip.png",
+    "email": "mvsadi5@gmail.com",
+    "phone": "716-533-0788",
+    "website": "https://vmantrip.github.io",
+    "summary": "I am a Data Science Graduate in the Department of Information and Computer Sciences at the University at Buffalo. I currently worka as a full-time Supply Chain Engineer at GreyOrange.",
+    "location": { "address": "13904 Rollingwood Dr", "postalCode": "76040", "city": "Euless", "countryCode": "USA", "region": "Texas" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "vmantrip", "url": "http://github.com/vmantrip" },
+      { "network": "linkedin", "username": "Aditya", "url": "https://www.linkedin.com/in/venkata-sesha-aditya-mantri-pragada-b09780249/" }
+      
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Supply Chain Engineering" },
+    { "name": "SQL" },
+    { "name": "Business Analytics" },
+    { "name": "Transport Planning" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Inventory management" },
+    { "name": "Data Visualization" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Microsodt Suite", "SQL", "Javascript", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University at Buffalo, Buffalo, NY",
+      "area": "Data Science - Supply Chain",
+      "studyType": "M.S.",
+      "startDate": "2022-08-22",
+      "endDate": "2024-02-01",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "GreyOrange",
+      "position": "Supply Chain Engineer",
+      "website": "https://www.greyorange.com/",
+      "startDate": "2024-11-11",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Actively involved in transport planning and scheduling operations using Automation.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee Robot performance for inventory management",
+        "Drive, design and build inventory schedules and testing reports."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Digital iTechnology",
+      "position": "Intern - Software Consultant",
+      "website": "https://digitalitus.com/",
+      "startDate": "2024-06-10",
+      "endDate": "2024-11-01",
+      "summary": "Performed Database design and maintenace activites in SAP HANA.",
+      "highlights": [
+        "Involved in data retrival using SQL query language",
+        "Prepared interactive dashboards and reports in Qlikview, MS Excel and Power BI for Scrum meetings"
+      ]
+    },
+    {
+      "company": "University at Buffalo",
+      "position": "Intern - Research Analyst",
+      "website": "https://www.buffalo.edu/ai-data-science.html",
+      "startDate": "2024-03-20",
+      "endDate": "2024-06-10",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Involved in data retrival using SQL query language",
+        "Prepared interactive dashboards and reports in Qlikview, MS Excel and Power BI for Scrum meetings"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Community School of Arts",
+      "website": "https://csoaf.org/",
+      "position": "Machine Learning Engineer",
+      "startDate": "2024-09-25",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Lead the development of Machine Learning algorithm for predicting potential fund sponsors",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Designed, trained and tested Machine Leaning models over 600 sponsors data gathered over 5 years.",
+        "Maintain custom data collection and storage infrastructure in Google Colab"
       ]
     }
+    
   ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+  "awards": [    
     {
       "title": "First place",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "University at Buffalo Blackstone Launchpad Competition",
+      "summary": "My team won first place in 2022 for generating preventive measures for future threats using historic earthquake data."
     }
   ],
   "references": [
