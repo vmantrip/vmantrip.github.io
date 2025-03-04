@@ -14,7 +14,7 @@ labels:
 summary: "Numerical problem solving using MS Rxcel for Production planning and supply chain improvement."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/chemical1.png">
 
 This project applies the Economic Production Quantity (EPQ) model to optimize production planning for a chemical firm manufacturing sodium bisulfate in 100-pound bags. The study determines the optimal production batch size, inventory levels, production run time, annual production runs, and potential cost savings with improved setup costs.
 
