@@ -27,4 +27,4 @@ Annual production cycles required to meet demand.
 Cost savings from reduced setup costs, enhancing efficiency and profitability.
 The project demonstrates expertise in inventory management, production scheduling, and supply chain cost analysis. By leveraging quantitative analysis and optimization techniques, it showcases the ability to improve manufacturing efficiency and cost-effectiveness.
 
-Source: <a href="https://pin.it/6yYluLe9z">theVacay/vacay</a>
+Source: <a href="https://pin.it/6yYluLe9z">Pinterest</a>
