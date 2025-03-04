@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/chemical1.png
+image: img/forecasting1.png
 title: "Demand Forecasting for Supply Chain Optimization"
 date: 2025
 published: true
@@ -14,7 +14,7 @@ labels:
 summary: "Applied Exponential Smoothing with Linear and Ratio Trend Patterns to predict future demand and prevent stock out scenarios."
 ---
 
-<img class="img-fluid" src="../img/chemical1.png">
+<img class="img-fluid" src="../img/forecast_image.png">
 
 This project involved forecasting future demand for a given dataset using **Exponential Smoothing with Linear and Ratio Trend Patterns**. The objective was to generate demand estimates for the next four quarters based on historical data trends.
 
