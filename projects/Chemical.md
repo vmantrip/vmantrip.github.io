@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/chemical1.png
 title: "EPQ model for Inventory Optimization in Plastics Manufacturing"
 date: 2025
 published: true
