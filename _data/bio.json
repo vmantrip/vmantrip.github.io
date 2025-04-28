@@ -6,8 +6,8 @@
     "email": "mvsadi5@gmail.com",
     "phone": "716-533-0788",
     "website": "https://vmantrip.github.io",
-    "summary": "I currently work as a full-time Supply Chain Engineer at GreyOrange.",
-    "location": { "address": "13904 Rollingwood Dr", "postalCode": "76040", "city": "Euless", "countryCode": "USA", "region": "Texas" },
+    "summary": "I currently contribute to Supply Chain Engineering at GreyOrange.",
+    "location": { "address": "1406 Ashford Pkwyr", "postalCode": "30338", "city": "Dunwoody", "countryCode": "USA", "region": "Georgia" },
     "profiles": [
       { "network": "github", "username": "vmantrip", "url": "http://github.com/vmantrip" },
       { "network": "linkedin", "username": "Aditya", "url": "https://www.linkedin.com/in/venkata-sesha-aditya-mantri-pragada-b09780249/" }
@@ -47,7 +47,7 @@
   "work": [
     {
       "company": "GreyOrange",
-      "position": "Supply Chain Engineer",
+      "position": "Robotics Coordinator",
       "website": "https://www.greyorange.com/",
       "startDate": "2024-11-11",
       "endDate": "Present",
@@ -55,18 +55,6 @@
       "highlights": [
         "Maintain, update, and oversee Robot performance for inventory management",
         "Drive, design and build inventory schedules and testing reports."
-      ]
-    },
-    {
-      "company": "Digital iTechnology",
-      "position": "Intern - Software Consultant",
-      "website": "https://digitalitus.com/",
-      "startDate": "2024-06-10",
-      "endDate": "2024-11-01",
-      "summary": "Performed Database design and maintenace activites in SAP HANA.",
-      "highlights": [
-        "Involved in data retrival using SQL query language",
-        "Prepared interactive dashboards and reports in Qlikview, MS Excel and Power BI for Scrum meetings"
       ]
     },
     {
