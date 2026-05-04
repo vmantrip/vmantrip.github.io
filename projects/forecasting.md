@@ -2,30 +2,30 @@
 layout: project
 type: project
 image: img/forecasting1.png
-title: "Demand Forecasting for Supply Chain Optimization"
+title: "Unconstrained Optimization for Inventory and Packaging Solutions"
 date: 2025
 published: true
 labels:
-  - Exponential smoothening
-  - Tracking signal
-  - Trend Analysis
+  - Mathematical Modelling
+  - Inventory Optimization
+  - Cost Minimization
     
   
-summary: "Applied Exponential Smoothing with Linear and Ratio Trend Patterns to predict future demand and prevent stock out scenarios."
+summary: "Applied unconstrained mathematical optimization and differential calculus to minimize total inventory costs and maximize physical packaging volumes."
 ---
 
 <img class="img-fluid" src="../img/forecast_image.png">
 
-This project involved forecasting future demand for a given dataset using **Exponential Smoothing with Linear and Ratio Trend Patterns**. The objective was to generate demand estimates for the next four quarters based on historical data trends.
+This project focused on leveraging **Unconstrained Optimization** within **deterministic models** to solve critical supply chain and manufacturing challenges. The objective was to mathematically determine the most optimal decision variables for both cost reduction and space utilization using differential calculus.
 
-By leveraging **Exponential Smoothing**, demand fluctuations were adjusted while incorporating trend components to account for seasonality and growth patterns. Both **linear and ratio-based trends** were analyzed to determine current demand levels and rate of change, ensuring more accurate predictions.
+By formulating objective functions, the project analyzed continuous mathematical curves to identify **global and local maxima and minima**. The analysis was applied to two primary real-world supply chain scenarios: **minimizing total inventory costs** (balancing holding and ordering costs to find the optimal batch size) and **maximizing carton storage volume** (determining the precise dimensions for packaging cuts within feasible physical boundaries).
 
 ### Key Methodologies:
-- **Exponential Smoothing Techniques** for demand forecasting  
-- **Trend Analysis (Linear & Ratio)** for pattern identification  
-- **Tracking Signal & Forecast Error Metrics** to assess accuracy  
-- **Data Processing & Visualization** for trend interpretation  
+- **Mathematical Modeling & Differential Calculus** to evaluate first and second derivatives for finding extreme values.  
+- **Inventory Cost Minimization** through the optimization of order sizes based on annual demand and unit costs.  
+- **Packaging Volume Maximization** for highly efficient material utilization in a manufacturing and e-commerce context.  
+- **Feasibility Analysis** to ensure calculated optimums operate successfully within realistic operational limits. 
 
-This project highlights expertise in **inventory management, production planning, and predictive analytics**, demonstrating the ability to apply quantitative models for effective supply chain decision-making.
+This project highlights expertise in **Mathematical modelling and Inventory Management**, demonstrating the ability to apply quantitative models for effective supply chain decision-making.
 
 Image Source: <a href="https://pin.it/6yYluLe9z">Pinterest</a>
