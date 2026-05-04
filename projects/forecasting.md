@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/forecasting1.png
+image: img/carton.png
 title: "Unconstrained Optimization for Inventory and Packaging Solutions"
 date: 2025
 published: true
