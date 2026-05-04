@@ -6,11 +6,10 @@
     "email": "mvsadi5@gmail.com",
     "phone": "716-533-0788",
     "website": "https://vmantrip.github.io",
-    "summary": "I contributed to Supply Chain Engineering at GreyOrange.",
+    "summary": "I am a Software Supply Chain Engineer at Cloud Data Networks with over 2 years of experience in Supply Chain Engineering and Analytics in Grey Orange",
     "location": { "address": "1415 Ashford Pkwy", "postalCode": "30338", "city": "Dunwoody", "countryCode": "USA", "region": "Georgia" },
     "profiles": [
       { "network": "github", "username": "vmantrip", "url": "http://github.com/vmantrip" },
-      { "network": "linkedin", "username": "Aditya", "url": "https://www.linkedin.com/in/venkata-sesha-aditya-mantri-pragada-b09780249/" }
       
     ]
   },
@@ -26,7 +25,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Microsodt Suite", "SQL", "Javascript", "Python" ]
+      "keywords": [ "Microsodt Suite", "SQL", "Python" ]
     },
     {
       "name": "Toolsets/OS",
