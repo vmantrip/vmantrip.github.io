@@ -14,7 +14,7 @@ labels:
 summary: "Applied unconstrained mathematical optimization and differential calculus to minimize total inventory costs and maximize physical packaging volumes."
 ---
 
-<img class="img-fluid" src="../img/forecast_image.png">
+<img class="img-fluid" src="../img/carton_model.png">
 
 This project focused on leveraging **Unconstrained Optimization** within **deterministic models** to solve critical supply chain and manufacturing challenges. The objective was to mathematically determine the most optimal decision variables for both cost reduction and space utilization using differential calculus.
 
