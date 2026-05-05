@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Difficult Paradigm of Supply Chain Transformation: Push, Pull, and the Bullwhip Effect"
+title: "Supply Chain Transformation: Push, Pull, and the Bullwhip Effect in IBM"
 date: 2026-05-05
 published: true
 labels:
@@ -11,7 +11,7 @@ labels:
 ---
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: How Supply Chain utilize Efficiency and Responsiveness?*
+*Difficulty: How do Supply Chains utilize Efficiency and Responsiveness?*
 
 In systems engineering and programming, it is an accepted truth that the most difficult problems usually involve human interaction. Applications are complex because user behavior is unpredictable. Similarly, designing and maintaining a global supply chain is fundamentally difficult because it is, at its core, a network designed to anticipate and serve human needs. 
 
