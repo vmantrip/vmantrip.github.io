@@ -9,7 +9,7 @@ labels:
   - Data Analysis
   - Process Improvement
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Supply_Chains_Spectrum.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/Supply_Chains_Spectrum.png">
 
 *Difficulty: How do Supply Chains utilize Efficiency and Responsiveness?*
 
