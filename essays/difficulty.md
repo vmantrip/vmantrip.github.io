@@ -15,7 +15,7 @@ labels:
 
 In systems engineering and programming, it is an accepted truth that the most difficult problems usually involve human interaction. Applications are complex because user behavior is unpredictable. Similarly, designing and maintaining a global supply chain is fundamentally difficult because it is, at its core, a network designed to anticipate and serve human needs. 
 
-When a system scales—whether it is a software deployment or a global manufacturing operation—the rigidity of the architecture often dictates its survival. Transforming a legacy system to meet changing requirements is supposed to be difficult. It challenges foundational industrial engineering methodologies. Ultimately, the question enterprise leaders must ask when facing these massive transformations is, "Is the cost of restructuring worth the survival of the business?"
+When a system scales whether it is a software deployment or a global manufacturing operation—the rigidity of the architecture often dictates its survival. Transforming a legacy system to meet changing requirements is supposed to be difficult. It challenges foundational industrial engineering methodologies. Ultimately, the question enterprise leaders must ask when facing these massive transformations is, "Is the cost of restructuring worth the survival of the business?"
 
 By examining the historical shifts in the personal computer market, specifically the contrasting architectures of IBM and Dell, we can observe why adapting a supply chain is so challenging, and how concepts like the bullwhip effect and material flow optimization dictate market leadership.
 
@@ -49,7 +49,7 @@ Dell neutralized the bullwhip effect by operating entirely on actual demand data
 
 ## Designing for Sustainable Operations and Material Flow
 
-A truly sustainable supply chain minimizes waste—not just in terms of raw materials, but in time, transportation, and redundant processes. Dell recognized that physical transport processes that do not add value are inherently wasteful.
+A truly sustainable supply chain minimizes waste, not just in terms of raw materials, but in time, transportation, and redundant processes. Dell recognized that physical transport processes that do not add value are inherently wasteful.
 
 Initially, Dell sourced cheaper components globally (e.g., India and Mexico) and routed them to a Texas factory for final assembly. However, through rigorous layout and material flow optimization, they realized that bringing fully manufactured monitors from Mexico to Texas just to be placed in a box with a processing unit was highly inefficient. 
 
