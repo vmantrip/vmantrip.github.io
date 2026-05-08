@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/chemical1.png
+image: img/oil_pricing.png
 title: "Travelling Salesman Problem (TSP) Optimization for Oil Distribution"
 date: 2025
 published: true
@@ -13,7 +13,8 @@ labels:
 summary: "Optimized an oil tanker's distribution route across ten gas stations using Nearest Neighbour and Two-Arc heuristic algorithms to minimize total travel distance and fuel consumption."
 ---
 
-<img class="img-fluid" src="../img/chemical1.png">
+<img class="img-fluid" src="../img/n_n_method.png">
+<img class="img-fluid" src="../img/2_arc_method.png">
 
 ### Project Overview  
 This project applies heuristic algorithms to solve the **Travelling Salesman Problem (TSP)** for route optimization. The case study focuses on an oil tanker leaving a central distribution depot (the source) to deliver fuel to ten different gas stations before returning. The model provides a structured mathematical approach to find an appropriate delivery route that minimizes the total distance travelled, maximizing fleet efficiency and reducing operational overhead.
@@ -44,4 +45,4 @@ The Two-Arc method is an improvement heuristic. It cannot build a route on its o
 **Conclusion:**
 By combining these approaches, the depot achieves a highly optimized distribution schedule. The **Nearest Neighbour method** provides a rapid, structured starting point, while the **Two-Arc method** strategically untangles the route's inefficiencies, resulting in a streamlined path that saves fuel, time, and mileage.
 
-**Image Source:** [Pinterest](https://pin.it/6yYluLe9z)
+**Image Source:** [Pinterest](https://www.pinterest.com/pin/270919733829482295/)
