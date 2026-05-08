@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/oil_pricing.png
+image: img/oil_pricing.jpg
 title: "Travelling Salesman Problem (TSP) Optimization for Oil Distribution"
 date: 2025
 published: true
