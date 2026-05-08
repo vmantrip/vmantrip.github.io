@@ -2,36 +2,46 @@
 layout: project
 type: project
 image: img/chemical1.png
-title: "EPQ Model for Inventory Optimization in Plastics Manufacturing"
+title: "Travelling Salesman Problem (TSP) Optimization for Oil Distribution"
 date: 2025
 published: true
 labels:
-  - Inventory Management
+  - Route Optimization
   - Supply Chain Analytics
-  - Mathematical Modeling
-  - Production Planning
-
-summary: "Optimized production batch sizes, inventory levels, and cost efficiency in a plastics manufacturing setup using the EPQ model."
+  - Heuristic Algorithms
+  - Deterministic Models
+summary: "Optimized an oil tanker's distribution route across ten gas stations using Nearest Neighbour and Two-Arc heuristic algorithms to minimize total travel distance and fuel consumption."
 ---
 
 <img class="img-fluid" src="../img/chemical1.png">
 
 ### Project Overview  
-This project applies the **Economic Production Quantity (EPQ) model** to optimize inventory and production planning for a chemical firm manufacturing **sodium bisulfate in 100-pound bags**. The model provides strategic insights to **minimize holding costs, optimize batch production, and reduce setup expenses**.
+This project applies heuristic algorithms to solve the **Travelling Salesman Problem (TSP)** for route optimization. The case study focuses on an oil tanker leaving a central distribution depot (the source) to deliver fuel to ten different gas stations before returning. The model provides a structured mathematical approach to find an appropriate delivery route that minimizes the total distance travelled, maximizing fleet efficiency and reducing operational overhead.
 
-### Key Metrics & Findings:
-- **Optimal Production Quantity per Batch:** **5,200 units** per run (calculated using the EPQ formula).  
-- **Average Inventory Level:** **2,600 units**, ensuring balanced stock levels while minimizing holding costs.  
-- **Production Run Duration:** **12 days per cycle**, based on production capacity and demand forecasts.  
-- **Annual Production Cycles:** **15 runs per year** to meet market demand without overstocking.  
-- **Cost Savings from Setup Optimization:** **18% reduction** in overall production costs due to improved efficiency in scheduling and inventory control.  
+### Key Metrics & Findings
+- **Baseline Feasible Route:** Using the Nearest Neighbour (NN) method, an initial distribution route was established: Depot &rarr; 8 &rarr; 1 &rarr; 4 &rarr; 3 &rarr; 5 &rarr; 2 &rarr; 6 &rarr; 7 &rarr; 9 &rarr; 10 &rarr; Depot.
+- **Initial Total Distance:** **97.3 miles**, calculated systematically by selecting the minimum distance gas station at each step without violating the circular route condition.
+- **Two-Arc Optimization Savings:** Identified crossing paths in the initial route and rearranged the arcs (switching d<sub>7-9</sub> + d<sub>10-source</sub> for d<sub>7-10</sub> + d<sub>9-source</sub>), reducing that specific segment's travel distance from 25.1 miles to 22.4 miles.
+- **Improved Total Distance:** The second level of optimization saved 2.7 miles, bringing the improved total distribution distance down to **94.6 miles**.
+- **Optimization Limit:** Further analysis on subsequent arc pairs (e.g., checking if d<sub>43</sub> + d<sub>14</sub> > d<sub>41</sub> + d<sub>34</sub>) resulted in 19.5 = 19.5, proving mathematically that no further improvement was possible for those segments.
 
-### Methodologies & Tools:
-- **Economic Production Quantity (EPQ) formula** for optimal batch size determination.  
-- **Demand Forecasting & Trend Analysis** to ensure stock availability and prevent shortages.  
-- **Excel-based Numerical Modeling** to solve inventory optimization problems.  
-- **Supply Chain Optimization Techniques** to enhance efficiency and profitability.  
+### Methodologies & Algorithm Comparison: Nearest Neighbour vs. Two-Arc Method
 
-This project highlights expertise in **inventory control, supply chain planning, and cost-efficient production scheduling**. By leveraging **quantitative modeling and advanced Excel functions**, it demonstrates **real-world problem-solving in manufacturing and logistics**.
+Solving the TSP practically often requires a layered approach, using one algorithm to build a foundation and another to refine it. 
+
+#### 1. The Nearest Neighbour (NN) Method: The "Greedy" Foundation
+The Nearest Neighbour algorithm is a constructive heuristic used to build the initial route from scratch. 
+* **How it works:** Starting from the depot, the tanker simply drives to the closest unvisited gas station. From there, it goes to the next closest unvisited station, repeating this process until all stations are visited, and then returns to the depot. 
+* **Strengths:** It is computationally very fast and incredibly simple to implement. It provides a "good enough" baseline feasible solution quickly.
+* **Weaknesses:** It lacks foresight. Because it only looks at the immediate next best step (a "greedy" approach), it often backs itself into a corner at the end of the route, forcing the tanker to make a long, inefficient trip back to the depot or to the final few scattered stations. This often results in paths that cross over themselves, which is a hallmark of an inefficient TSP route.
+
+#### 2. The Two-Arc (2-Opt) Optimization Method: The Refinement
+The Two-Arc method is an improvement heuristic. It cannot build a route on its own; instead, it takes a fully formed, suboptimal route (like the one generated by the NN method) and iteratively improves it.
+* **How it works:** The algorithm looks for inefficiencies in the existing route, specifically targeting segments where the tanker's path crosses itself. It selects two non-adjacent edges (arcs) in the route and checks if swapping their endpoints would result in a shorter total distance. Mathematically, it evaluates the condition: if the sum of the original two arcs is greater than the sum of the new proposed arcs, the algorithm executes the swap, untangling the route.
+* **Strengths:** It effectively eliminates crossing paths and significantly reduces the total travel distance, providing a much higher quality solution than the NN method alone. 
+* **Weaknesses:** It can get stuck in a "local optimum" where no single two-arc swap improves the route, even if a better global route exists. It also requires an initial route to already be established before it can function.
+
+**Conclusion:**
+By combining these approaches, the depot achieves a highly optimized distribution schedule. The **Nearest Neighbour method** provides a rapid, structured starting point, while the **Two-Arc method** strategically untangles the route's inefficiencies, resulting in a streamlined path that saves fuel, time, and mileage.
 
 **Image Source:** [Pinterest](https://pin.it/6yYluLe9z)
