@@ -24,12 +24,12 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Microsodt Suite", "SQL", "Python" ]
+      "name": "Supply Chain Software",
+      "keywords": [ "Manhattan WMS", "MS Excel (Pivot tables, Solver, Boxs and whisker, Histograms)", "SQL", "Python" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub" ]
+      "name": "Project Management/OS",
+      "keywords": [ "MacOS", "Ubuntu", "JIRA", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -68,21 +68,6 @@
         "Prepared interactive dashboards and reports in Qlikview, MS Excel and Power BI for Scrum meetings"
       ]
     }
-  ],
-  "volunteer": [
-    {
-      "organization": "Community School of Arts",
-      "website": "https://csoaf.org/",
-      "position": "Machine Learning Engineer",
-      "startDate": "2024-09-25",
-      "endDate": "Present",
-      "summary": "Lead the development of Machine Learning algorithm for predicting potential fund sponsors",
-      "highlights": [
-        "Designed, trained and tested Machine Leaning models over 600 sponsors data gathered over 5 years.",
-        "Maintain custom data collection and storage infrastructure in Google Colab"
-      ]
-    }
-    
   ],
   "awards": [    
     {
