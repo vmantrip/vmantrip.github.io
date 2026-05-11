@@ -16,8 +16,8 @@
   "interests": [
     { "name": "Supply Chain Engineering" },
     { "name": "SQL" },
-    { "name": "Business Analytics" },
-    { "name": "Transport Planning" },
+    { "name": "Logistic/Transportation Analytics" },
+    { "name": "Supply Planning" },
     { "name": "Robotics" },
     { "name": "Inventory management" },
     { "name": "Data Visualization" }
@@ -45,36 +45,50 @@
   ],
   "work": [
     {
-      "company": "GreyOrange",
-      "position": "Robotics Coordinator",
-      "website": "https://www.greyorange.com/",
-      "startDate": "2024-11-11",
+      "company": "Cloud Data Networks",
+      "position": "Supply Chain Software Engineer",
+      "website": "",
+      "startDate": "2025-10-01",
       "endDate": "Present",
-      "summary": "Actively involved in transport planning and scheduling operations using Automation.",
+      "summary": "Analyzed supply chain data and supported logistics platform improvements using SQL, Python, and SAP WM.",
       "highlights": [
-        "Maintain, update, and oversee Robot performance for inventory management",
-        "Drive, design and build inventory schedules and testing reports."
+        "Investigated supply chain anomalies using SQL and Python to extract inventory data from SAP WM.",
+        "Improved lead time adherence using deterministic and predictive models for demand forecasting.",
+        "Supported continuous improvement of distribution center processes within Manhattan WMS environment."
+      ]
+    },
+    {
+      "company": "GreyOrange",
+      "position": "Supply Chain Coordinator (contract - Supply Planning)",
+      "website": "https://www.greyorange.com/",
+      "startDate": "2024-11-01",
+      "endDate": "2025-10-01",
+      "summary": "Applied Six Sigma and Lean tools to drive process improvement across automated distribution workflows.",
+      "highlights": [
+        "Applied Green Belt Six Sigma and Lean Manufacturing techniques to conduct RCA on automated system faults.",
+        "Developed Power BI dashboards using Run Charts and Pareto Charts to optimize fleet availability.",
+        "Forecasted customer demand to prevent stockouts and reduce lead times across distribution operations."
       ]
     },
     {
       "company": "University at Buffalo",
-      "position": "Intern - Research Analyst",
+      "position": "Process Improvement Analyst (Volunteer)",
       "website": "https://www.buffalo.edu/ai-data-science.html",
       "startDate": "2024-03-20",
       "endDate": "2024-06-10",
-      "summary": "",
+      "summary": "Conducted process capability studies and flow mapping to support supply chain and inventory planning.",
       "highlights": [
-        "Involved in data retrival using SQL query language",
-        "Prepared interactive dashboards and reports in Qlikview, MS Excel and Power BI for Scrum meetings"
+        "Spearheaded a Process Capability study using SPC charts to ensure reliable inputs for supply planning models.",
+        "Created detailed Flow Charts to map current vs. future state inspection processes and identify bottlenecks."
       ]
     }
   ],
-  "awards": [    
+  "Certifications": [    
     {
-      "title": "First place",
-      "date": "2023",
-      "awarder": "University at Buffalo Blackstone Launchpad Competition",
-      "summary": "My team won first place in 2022 for generating preventive measures for future threats using historic earthquake data."
+      "title": "Six Sigma Green Belt",
+      "date": "2026",
+      "awarder": "The Council for Six Sigma Certification",
+      "summary": "Demonstrated proficiency in DMAIC methodology, statistical process control, and Lean tools including RCA, Pareto Analysis, and Fishbone diagrams. Certified to lead process improvement initiatives that reduce operational waste and enhance supply chain efficiency."
     }
   ],
   "references": [
