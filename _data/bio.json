@@ -96,9 +96,9 @@
       "endDate": "Present",
       "summary": "Analyzed supply chain data and supported logistics platform improvements using SQL, Python, and SAP WM.",
       "highlights": [
-        "Investigated supply chain anomalies using SQL and Python to extract inventory data.",
-        "Improved lead time adherence using deterministic and predictive models for demand forecasting.",
-        "Supported continuous improvement using Postman Testing."
+        "Utilized Python scripts and Postman to automate diagnostic testing and data validation on applications.",
+        "Developed scalable RESTful APIs hosted on Azure to streamline data workflows and system integration.",
+        "Optimized backend data pipelines using Python, improving data retrieval speeds and overall software reliability."
       ]
     },
     {
@@ -109,9 +109,10 @@
       "endDate": "2025-10-01",
       "summary": "Applied Six Sigma and Lean tools to drive process improvement across automated distribution workflows.",
       "highlights": [
-        "Applied Green Belt Six Sigma and Lean Manufacturing techniques to conduct RCA on automated system faults.",
-        "Developed Power BI dashboards using Run Charts and Pareto Charts to optimize fleet availability.",
-        "Forecasted customer demand to prevent stockouts and reduce lead times across distribution operations."
+        "Supervised a 4-member technical support team and managed on-site hardware maintenance for diversion system PLCs and RTP robot fleets, boosting equipment utilization across live warehouse operations.",
+        "Spearheaded a team of 3 to deploy cleaning brush retrofits on RTP bots and performed Root Cause Analysis (RCA) on electromechanical defects, driving a 40% increase in expedited outbound shipments.",
+        "Coordinated site-level safety compliance, including arc flash protocols and LOTO (Lockout/Tagout) procedures, to execute hardware tie-ins, passing all safety audits and stress tests.",
+        "Modified mechanical components using Creo Parametric, eliminating recurring malfunctions to reduce downtime."
       ]
     },
     {
