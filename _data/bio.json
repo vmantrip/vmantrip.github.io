@@ -6,7 +6,7 @@
     "email": "mvsadi5@gmail.com",
     "phone": "",
     "website": "https://vmantrip.github.io",
-    "summary": "I am a Software Supply Chain Engineer at Cloud Data Networks with 2+ years of expertise in supply chain analytics. Previously, I worked at GreyOrange (Supply Planning).",
+    "summary": "Software Engineer (Cloud Automation) with a Master of Science in Engineering Science and 2+ years of experience, seeking full-time roles focused on on-site Industrial Automation, Software Systems and Robotics Engineering.",
     "location": { "address": "", "postalCode": "", "city": "Atlanta", "countryCode": "USA", "region": "Georgia" },
     "profiles": [
       { "network": "github", "username": "vmantrip", "url": "http://github.com/vmantrip" },
@@ -24,7 +24,7 @@
   ],
   "skills": [
     {
-      "name": "Supply Chain Software",
+      "name": "Software",
       "keywords": [ "Manhattan WMS", "MS Excel (Pivot tables, Solver, Boxs and whisker, Histograms)", "SQL", "Python" ]
     },
     {
@@ -46,20 +46,20 @@
   "work": [
     {
       "company": "Cloud Data Networks",
-      "position": "Supply Chain Software Engineer",
+      "position": "Software Engineer",
       "website": "",
       "startDate": "2025-10-01",
       "endDate": "Present",
       "summary": "Analyzed supply chain data and supported logistics platform improvements using SQL, Python, and SAP WM.",
       "highlights": [
-        "Investigated supply chain anomalies using SQL and Python to extract inventory data from SAP WM.",
+        "Investigated supply chain anomalies using SQL and Python to extract inventory data.",
         "Improved lead time adherence using deterministic and predictive models for demand forecasting.",
-        "Supported continuous improvement of distribution center processes within Manhattan WMS environment."
+        "Supported continuous improvement using Postman Testing."
       ]
     },
     {
       "company": "GreyOrange",
-      "position": "Supply Chain Coordinator (contract - Supply Planning)",
+      "position": "Robotics Coordinator (contract - Supply Planning)",
       "website": "https://www.greyorange.com/",
       "startDate": "2024-11-01",
       "endDate": "2025-10-01",
@@ -72,7 +72,7 @@
     },
     {
       "company": "University at Buffalo",
-      "position": "Process Improvement Analyst (Volunteer)",
+      "position": "Analyst - Process Improvement(Volunteer)",
       "website": "https://www.buffalo.edu/ai-data-science.html",
       "startDate": "2024-03-20",
       "endDate": "2024-06-10",
