@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mantri Aditya",
-    "label": "Supply Chain Engineer",
+    "label": "Software Engineer",
     "picture": "https://github.com/vmantrip.png",
     "email": "mvsadi5@gmail.com",
     "phone": "",
@@ -14,33 +14,77 @@
     ]
   },
   "interests": [
-    { "name": "Supply Chain Engineering" },
-    { "name": "SQL" },
-    { "name": "Logistic/Transportation Analytics" },
-    { "name": "Supply Planning" },
-    { "name": "Robotics" },
-    { "name": "Inventory management" },
-    { "name": "Data Visualization" }
+    {
+      "name": "Industrial Automation"
+    },
+    {
+      "name": "Software Systems"
+    },
+    {
+      "name": "Robotics Engineering"
+    },
+    {
+      "name": "Cloud Automation"
+    }
   ],
   "skills": [
     {
-      "name": "Software",
-      "keywords": [ "Manhattan WMS", "MS Excel (Pivot tables, Solver, Boxs and whisker, Histograms)", "SQL", "Python" ]
+      "name": "Industrial Automation",
+      "keywords": [
+        "PLCs",
+        "Motorized Drive Rollers (MDR)",
+        "Conveyors",
+        "Diverts",
+        "Vision Systems",
+        "Sensors"
+      ]
     },
     {
-      "name": "Project Management/OS",
-      "keywords": [ "MacOS", "Ubuntu", "JIRA", "Git/GitHub" ]
+      "name": "Robotics",
+      "keywords": [
+        "RTP (Ranger to Person) Robots",
+        "AGV Fleets",
+        "3D Camera Zone Control",
+        "Creo"
+      ]
+    },
+    {
+      "name": "Software",
+      "keywords": [
+        "Data Structures",
+        "Algorithms",
+        "REST APIs",
+        "Kafka Event Streams",
+        "Git",
+        "Minitab"
+      ]
+    },
+    {
+      "name": "Methodologies",
+      "keywords": [
+        "Six Sigma (Green Belt)",
+        "RCA",
+        "DMAIC",
+        "LOTO"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University at Buffalo, Buffalo, NY",
-      "area": "Data Science - Supply Chain",
-      "studyType": "M.S.",
-      "startDate": "2022-08-22",
-      "endDate": "2024-02-01",
-      "courses": [
-      ]
+      "institution": "University at Buffalo",
+      "area": "Engineering Science",
+      "studyType": "Master of Science",
+      "startDate": "2022",
+      "endDate": "2024",
+      "courses": []
+    },
+    {
+      "institution": "Amrita University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor of Technology",
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": []
     }
   ],
   "work": [
